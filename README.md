@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nakibuuka-Harriet
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning bioinformatics
-- 💞️ I’m looking to collaborate on coding of genetic materials
+- 💞️ I’m looking forward to collaborate on coding of genetic materials
 - 📫 How to reach me calynbib@gmail.com
 
 <!---
